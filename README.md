@@ -2,8 +2,8 @@
 Automate your pc using some simple gestures. 
 
 # Modules/Packages required
-pip install math
-pip install webbrowser
+#pip install math
+#pip install webbrowser
 pip install os
 pip install wmi
 pip install ctypes
